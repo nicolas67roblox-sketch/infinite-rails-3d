@@ -1,0 +1,8 @@
+{
+  "name": "infinite-rails-3d",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "latest"
+  }
+}
